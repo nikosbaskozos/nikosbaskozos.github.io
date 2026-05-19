@@ -1,3 +1,8 @@
-title: Nikos Baskozos
+title: Kostas Kostopoulos
 description: Personal music website
 theme: minima
+
+header_pages:
+  - about.md
+  - music.md
+  - contact.md
